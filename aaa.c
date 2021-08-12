@@ -1,1 +1,1 @@
-inpute
+writedata
